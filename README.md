@@ -2,9 +2,9 @@
 
 ## Hi there 👋
 
-I'm 21 years old and currently a junior internship fullstack developer that's working with Javascript, Typescript, Node.js, Angular and SQL @ **ASP-Softwares**, on Brazil, Lages-SC. Lover of the React framework and Node.
+I'm 21 years old and currently a junior internship developer that's working with Javascript, Typescript, Python and SQL @ **Ambev - Cervejaria Santa Catarina**, on Brazil, Lages-SC. Lover of the React framework and Node.
 
-- 🔭 I’m currently working on Javascript, Node.js, ReactJS, Angular, React-Native and SQL.
+- 🔭 I’m currently working on Typescript, ReactJS and SQL.
 - 🌱 I’m currently learning Typescript, Design Patterns, CSS, DevOps, how to use different native features with Expo and React-native-cli as well as exploring their libraries. And always learning something new on these tecnologies! **Rocketseat** helps me a lot with that. :smiley:
 - 💬 Ask me about Javascript, Node and React!
 - ⚡ Fun fact: Lover of tecnologies, twitch.tv viewer and a LoL Diamond. :sweat_smile:
